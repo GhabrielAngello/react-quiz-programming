@@ -22,5 +22,5 @@ Este projeto utiliza uma variedade de recursos e tecnologias para fornecer uma e
 - **Reducer:** Utilização de reducers para gerenciar o estado global da aplicação.
 - **Lógica:** Implementação de lógica para verificar respostas, calcular pontuações e determinar o progresso do usuário.
 - **Context:** Utilização de contexto do React para compartilhar informações importantes entre componentes.
-- 
-![Logo do Projeto](img/quiz.svg)
+  
+![Logo do Projeto](./img/quiz.svg)
